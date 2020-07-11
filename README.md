@@ -1,2 +1,2 @@
 # Frontend-Mentor-Challenges-four-card-feature-section-master
- Frontend Mentor Challenges Article previe component
+ The challenge - build article previe component (https://www.frontendmentor.io)
